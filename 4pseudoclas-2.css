@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+li:first-child{  
+    color: red;
+}
+
+li:last-child{
+    color: red;
+}
+
+span:first-of-type{
+    color: red;
+}
+
+p:first-of-type{
+    color: red;
+
+
+}
+.conteiner:not(.excluido){
+    color: rgb(17, 17, 95);
+}
+
+li:nth-child(4){
+    color: red;
+}
+

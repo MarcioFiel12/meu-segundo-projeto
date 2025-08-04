@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 200vh;
+    width: 200vh;
+}
+
+.div-dad{
+    height: 350px;
+    width: 350px;
+    background-color: #ff1396;
+    position: sticky;
+    top: 20px;
+
+
+}
+
+.div-filho{
+    height: 150px;
+    width: 150px;
+    background-color: #ffff00;
+    position: fixed;
+    
+    
+}
+
+.tanana{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}

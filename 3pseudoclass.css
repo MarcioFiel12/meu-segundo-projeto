@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a:visited{
+    color: black;
+}
+
+p{
+    color: red;
+}
+
+p:hover{
+    color:blue;
+
+}
+input:read-only{
+    
+ border: red;
+ outline: none;
+ border: blue;
+
+}
+
+.conteiner{
+    width: 100px;
+    height: 100px;
+    background: red;
+}
+
+.conteiner:empty{
+    background: blue;
+
+}
+
+
+
+ 
